@@ -7,8 +7,11 @@
 - 📫 How to reach me
 
 Linkedin-https://www.linkedin.com/in/jos%C3%A9-isaias-louren%C3%A7o-949209199/
+
 Facebook - https://www.facebook.com/NewProfileIsaiasLourenco/
+
 Instagram - https://www.instagram.com/isaiaslourenco3/
+
 Site - https://jil-informatica-fastsolutiontechnologies.negocio.site/?m=true
 
 
