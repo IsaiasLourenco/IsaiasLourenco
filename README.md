@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil da Vetor256, Sou o Isaias Lourenço 😁
 
  <div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsaiasLourenco" alt="IsaiasLourenco" /> </p>
    <a href="https://github.com/IsaiasLourenco">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaiasLourenco&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasLourenco&layout=compact&langs_count=6&theme=onedark"/>
