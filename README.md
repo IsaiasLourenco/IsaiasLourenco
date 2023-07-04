@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Vetor256, Sou o Isaias Lourenço 😁
+## Bem-vindo(a) ao perfil da Vetor256, sou o Isaias Lourenço 😁
 
  <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsaiasLourenco" alt="IsaiasLourenco" /> </p>
