@@ -26,7 +26,7 @@
 
   <span>Ferramentas</span><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="30" width="30" src="./img/white-github.png">
+  <img align="center" alt="Github" height="30" width="30" src="./img/white-github-24.png">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="NetBeans" height="30" width="40" src="https://img.icons8.com/?size=32&id=16btInyZvrVp&format=png"><br>
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><br>
