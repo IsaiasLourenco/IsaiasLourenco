@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Vetor256, sou o Isaias Lourenço 😁
+## Welcome to Vetor256 profile, I'm Isaias Lourenço 😁
 
  <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsaiasLourenco" alt="IsaiasLourenco" /> </p>
@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   
 
-  <span>Linguagens</span><br>
+  <span>Languages</span><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,12 +21,12 @@
   <img align="center" alt="VB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><br>
 
-  <span>Testes de Software</span><br>
+  <span>Software Test</span><br>
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Vitest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg"><br>
 
-  <span>Ferramentas</span><br>
+  <span>Tools</span><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Github" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -34,7 +34,7 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"><br>
 
-  <span>Banco de dados</span><br>
+  <span>Data Bases</span><br>
   <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -58,7 +58,7 @@
  
  <br>
  
-  ### Entre em contato ou sigam nas redes abaixo!
+  ### Get in touch or follow me on the networks below!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCucCsiVk4zycu4CwVxY5WTw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -67,7 +67,7 @@
   <a href="https://www.linkedin.com/in/isaias-louren%C3%A7o-5265b425a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5519996745466?text=Olá,%20gostaria%20de%20falar%20sobre%20seu%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
-  ## Gráfico de contribuições
+  ## Contribution chart
   ![snake gif](https://github.com/IsaiasLourenco/IsaiasLourenco/blob/output/github-contribution-grid-snake.svg)
 
 </div>
