@@ -128,7 +128,7 @@
 <div style="display: inline_block">
 
 <img align="center" alt="DBeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
-<img align="center" alt="phpMyAdmin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg">
+<img align="center" alt="phpMyAdmin" height="30" width="40" src="https://www.phpmyadmin.net/static/images/logo.png">
 
 </div>
 
