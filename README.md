@@ -63,7 +63,7 @@
 
 <div style="display: inline_block">
 
-<img align="center" alt="AJAX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg">
+<img align="center" alt="AJAX" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg">
 <img align="center" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 
 </div>
